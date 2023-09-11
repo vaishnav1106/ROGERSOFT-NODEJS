@@ -1,0 +1,17 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "my first nodejs app to learn node",
+  "main": "index.js",
+  "scripts": {
+    "start":"node sum.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "self",
+    "learning"
+  ],
+  "author": "Vaishnav V Nair",
+  "license": "ISC"
+}
